@@ -9,3 +9,5 @@ To create project:
 - nodemon
 - eslint
 - dotenv
+- MongoDB
+- mongoose (ORM)
