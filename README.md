@@ -13,6 +13,7 @@ To create project:
 - mongoose (ORM)
 - jsonwebtoken
 - bcryptjs
+- Arcjet
 
 # Info
 
