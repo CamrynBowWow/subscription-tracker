@@ -11,3 +11,5 @@ To create project:
 - dotenv
 - MongoDB
 - mongoose (ORM)
+- jsonwebtoken
+- bcryptjs
