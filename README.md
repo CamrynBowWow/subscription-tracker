@@ -19,11 +19,22 @@ To create project:
 - bcryptjs
 - Arcjet
 - dayjs
+- [nodemailer](https://www.nodemailer.com/)
+
+<br>
 
 # Info
 
 - Can chain multiply middlewares as long as the middleware ends with 'next()' as it will forward to the next function. 
 
+<br>
+
 ```bash
 userRouter.get('/:id', authorize, getUser);
 ```
+
+<br>
+
+## Testing API Request
+
+- Insomnia
