@@ -1,6 +1,10 @@
 To create project:
 - npx express-generator --no-view --git ./
 
+# Tutorial
+- Youtuber: JavaScript Mastery
+- URL: https://www.youtube.com/watch?v=rOpEN1JDaD0
+
 <br>
 
 # Tech Stack
@@ -14,6 +18,7 @@ To create project:
 - jsonwebtoken
 - bcryptjs
 - Arcjet
+- dayjs
 
 # Info
 
